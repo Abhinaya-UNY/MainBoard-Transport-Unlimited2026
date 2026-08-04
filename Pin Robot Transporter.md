@@ -28,11 +28,11 @@
 
 | Komponen | Label Pin | Pin ESP32 |
 | :--- | :--- | :--- |
-| **Servo 1 (S1)** | Signal (S) | 14 |
-| **Servo 2 (S2)** | Signal (S) | 27 |
-| **Servo 3 (S3)** | Signal (S) | 26 |
-| **Servo 4 (S4)** | Signal (S) | 25 |
-| **Servo 5 (S5)** | Signal (S) | 33 |
+| **Servo 1 (S1)** | Signal (S) | 27 |
+| **Servo 2 (S2)** | Signal (S) | 26 |
+| **Servo 3 (S3)** | Signal (S) | 25 |
+| **Servo 4 (S4)** | Signal (S) | 33 |
+| **Servo 5 (S5)** | Signal (S) | 32 |
 | **Pneumatik** | Selenoid | 5 |
 
 ---
@@ -45,7 +45,7 @@
 | **BNO085** | SDA<br>SCL<br>INT<br>RST | 21<br>22<br>19<br>18 | Sensor Orientasi Absolut |
 | **VL53L0X** | SDA<br>SCL<br>GPIO1 | 21<br>22<br>23 | Sensor Jarak (Time-of-Flight) |
 | **ID-BAT** | OUT | 13 | Indikator / Pembacaan Baterai |
-| **Current Sensor** | OUT | 32 | Pembacaan Arus (Input Analog) |
+| **Current Sensor** | OUT | 35 | Pembacaan Arus (Input Analog) |
 
 ## 5. selonoid
 
