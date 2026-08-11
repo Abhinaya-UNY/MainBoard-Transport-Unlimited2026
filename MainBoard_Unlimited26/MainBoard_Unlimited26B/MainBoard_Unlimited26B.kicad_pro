@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.8,
-          "width": 2.2
+          "drill": 0.95,
+          "height": 2.3,
+          "width": 1.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -196,6 +196,7 @@
       "track_widths": [
         0.0,
         0.6,
+        0.8,
         1.0,
         1.5,
         2.0
@@ -230,6 +231,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 2.0,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false
@@ -649,7 +654,7 @@
         "uuid": "f6f123b6-87cf-4209-afbd-6e673cf16dfb"
       }
     ],
-    "used_designators": "D13,F6",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

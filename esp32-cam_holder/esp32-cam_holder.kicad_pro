@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 3.2,
+          "height": 5.5,
+          "width": 5.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.8
         }
       },
       "diff_pair_dimensions": [
@@ -195,8 +195,8 @@
       ],
       "track_widths": [
         0.0,
-        0.5,
-        0.8
+        0.6,
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -523,7 +523,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/Lenovo L13/Downloads/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -647,7 +647,7 @@
         "uuid": "a446d434-d129-49bb-b3ed-ecea04be15d0"
       }
     ],
-    "used_designators": "#PWR6,J2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
