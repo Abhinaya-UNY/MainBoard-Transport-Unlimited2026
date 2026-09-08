@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.95,
-          "height": 2.3,
-          "width": 1.9
+          "drill": 1.01,
+          "height": 2.2,
+          "width": 2.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -195,6 +195,7 @@
       ],
       "track_widths": [
         0.0,
+        0.4,
         0.6,
         0.8,
         1.0,
@@ -530,7 +531,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../../../../Downloads/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -654,7 +655,7 @@
         "uuid": "f6f123b6-87cf-4209-afbd-6e673cf16dfb"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R9",
     "variants": []
   },
   "sheets": [
