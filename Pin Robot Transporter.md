@@ -18,7 +18,7 @@
 | **Motor 1 (M1)** | IN1<br>IN2        |  PB8<br>PB9  | TIM4_CH3<br>TIM4_CH4 |
 | **Motor 2 (M2)** | IN1<br>IN2        |  PB6<br>PB7  | TIM4_CH1<br>TIM4_CH2 |
 | **Motor 3 (M3)** | IN1<br>IN2        | PA10<br>PA11 | TIM1_CH3<br>TIM1_CH4 |
-| **Motor 4 (M4)** | IN1<br>IN2        | PB10<br>PB11 | TIM2_CH3<br>TIM2_CH4 |
+| **Motor 4 (M4)** | IN1<br>IN2        |  PA8<br>PA9  | TIM1_CH1<br>TIM1_CH2 |
 | **Motor 5 (M5)** | F<br>B            |  PA1<br>PA0  | TIM2_CH2<br>TIM2_CH1 |
 
 ---
