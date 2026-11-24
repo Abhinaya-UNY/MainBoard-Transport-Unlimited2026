@@ -4984,7 +4984,7 @@
 	(text_box "DRIVER BOARD POWER"
 		(exclude_from_sim no)
 		(at 78.74 156.21 0)
-		(size 24.13 22.86)
+		(size 23.495 22.86)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -8382,7 +8382,6 @@
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
 		(at 24.13 66.04 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8392,7 +8391,7 @@
 		(dnp no)
 		(uuid "01759925-3690-4736-8552-079f66604cb7")
 		(property "Reference" "C5"
-			(at 26.67 65.786 0)
+			(at 26.67 66.294 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8403,7 +8402,7 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 25.654 61.722 0)
+			(at 25.654 70.358 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9962,7 +9961,6 @@
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
 		(at 22.86 97.79 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9972,7 +9970,7 @@
 		(dnp no)
 		(uuid "1dc2d010-86f5-40db-9d93-d893d05b3335")
 		(property "Reference" "C3"
-			(at 25.4 97.536 0)
+			(at 25.4 98.044 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9983,7 +9981,7 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 24.384 93.472 0)
+			(at 24.384 102.108 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10357,7 +10355,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 168.91 0)
+		(at 92.71 170.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10367,7 +10365,7 @@
 		(dnp no)
 		(uuid "34734caf-94de-4e38-89b0-437fb44828e6")
 		(property "Reference" "#PWR033"
-			(at 95.25 175.26 0)
+			(at 92.71 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10378,7 +10376,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 173.482 0)
+			(at 92.71 174.752 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10388,7 +10386,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 168.91 0)
+			(at 92.71 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10399,7 +10397,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 168.91 0)
+			(at 92.71 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10410,7 +10408,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 168.91 0)
+			(at 92.71 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11163,7 +11161,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 90.17 166.37 0)
+		(at 87.63 167.64 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -11174,7 +11172,7 @@
 		(dnp no)
 		(uuid "46fd71cd-5d6b-45b7-aa55-1eff9e2b26f9")
 		(property "Reference" "J7"
-			(at 90.17 175.26 0)
+			(at 87.63 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11184,7 +11182,7 @@
 			)
 		)
 		(property "Value" "power"
-			(at 90.17 172.72 0)
+			(at 87.63 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11194,7 +11192,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm"
-			(at 90.17 166.37 0)
+			(at 87.63 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11205,7 +11203,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 166.37 0)
+			(at 87.63 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11216,7 +11214,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 90.17 166.37 0)
+			(at 87.63 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13184,7 +13182,6 @@
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
 		(at 24.13 35.56 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13194,7 +13191,7 @@
 		(dnp no)
 		(uuid "87483e1c-7477-4982-8750-884dccf1c85a")
 		(property "Reference" "C1"
-			(at 26.67 35.306 0)
+			(at 26.67 35.814 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13205,7 +13202,7 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 25.654 31.242 0)
+			(at 25.654 39.878 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14426,7 +14423,6 @@
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
 		(at 22.86 130.81 0)
-		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14436,7 +14432,7 @@
 		(dnp no)
 		(uuid "aa275079-e7b6-46bf-9531-2f4ac9cea022")
 		(property "Reference" "C4"
-			(at 25.4 130.556 0)
+			(at 25.4 131.064 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14447,7 +14443,7 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 24.384 126.492 0)
+			(at 24.384 135.128 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16038,7 +16034,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 95.25 166.37 0)
+		(at 92.71 167.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16049,7 +16045,7 @@
 		(fields_autoplaced yes)
 		(uuid "dd5c79b0-ab41-4b50-a2a6-7b90722542d1")
 		(property "Reference" "#PWR032"
-			(at 95.25 170.18 0)
+			(at 92.71 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16060,7 +16056,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 95.25 161.29 0)
+			(at 92.71 162.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16070,7 +16066,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 166.37 0)
+			(at 92.71 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16081,7 +16077,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 166.37 0)
+			(at 92.71 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16092,7 +16088,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 95.25 166.37 0)
+			(at 92.71 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
